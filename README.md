@@ -11,3 +11,8 @@ ADNR Corp;
 location= Newyork
 Latitude=-74.997 to -74.9968
 Longitude= 40.5 to 40.6 
+
+Findings:
+11 names from employees and suspected rider names. 
+
+It looks like they have the same last names!
